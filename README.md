@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Rynx0
+-
+-    I'm new to coding.
